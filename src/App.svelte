@@ -5,7 +5,6 @@
 <main class="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-emerald-900">
   <div class="container mx-auto px-4 py-8 max-w-7xl">
 
-    <!-- Header -->
     <div class="text-center mb-12 animate-fade-in">
       <h1 class="text-5xl font-bold bg-gradient-to-r from-emerald-400 to-green-300 bg-clip-text text-transparent mb-4">
         Quote Builder
